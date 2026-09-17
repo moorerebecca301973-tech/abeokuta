@@ -1,1 +1,1 @@
-
+"""app.schemas package."""
