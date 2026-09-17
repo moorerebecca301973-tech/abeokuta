@@ -1,0 +1,47 @@
+[
+  {
+    "id": "olumo-gate",
+    "name": "Olumo Rock Entrance Gate",
+    "coordinates": {
+      "lat": 7.1552,
+      "lng": 3.3482
+    },
+    "description": "Standing at the base ticket office of Olumo Rock in Ikija."
+  },
+  {
+    "id": "ake-square",
+    "name": "Ake Palace Square",
+    "coordinates": {
+      "lat": 7.1515,
+      "lng": 3.3442
+    },
+    "description": "In the heart of historic Ake, between the Palace and Centenary Hall."
+  },
+  {
+    "id": "oke-mosan",
+    "name": "Oke-Mosan (OOPL Axis)",
+    "coordinates": {
+      "lat": 7.135,
+      "lng": 3.375
+    },
+    "description": "Modern administrative district near the Presidential Library."
+  },
+  {
+    "id": "kuto-park",
+    "name": "Kuto Motor Park & Cultural Centre",
+    "coordinates": {
+      "lat": 7.142,
+      "lng": 3.351
+    },
+    "description": "Bustling transit hub and arts center near central Abeokuta."
+  },
+  {
+    "id": "city-gate",
+    "name": "Abeokuta Interchange Gate",
+    "coordinates": {
+      "lat": 7.085,
+      "lng": 3.42
+    },
+    "description": "Southern gateway arriving from the Lagos-Ibadan Expressway."
+  }
+]

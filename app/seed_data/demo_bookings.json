@@ -1,0 +1,45 @@
+[
+  {
+    "id": "book-1",
+    "bookingRef": "ABK-2026-9142",
+    "attractionId": "olumo-rock",
+    "attractionName": "Olumo Rock Tourist Complex",
+    "attractionImage": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?auto=format&fit=crop&w=600&q=80",
+    "visitDate": "2026-09-15",
+    "timeSlot": "09:00 AM",
+    "adultsCount": 2,
+    "childrenCount": 1,
+    "selectedAddons": [
+      "historian-guide",
+      "photo-package"
+    ],
+    "totalAmount": 10200,
+    "status": "confirmed",
+    "contactName": "Adeola Balogun",
+    "contactEmail": "adeola@tourist.ng",
+    "contactPhone": "+234 803 555 0192",
+    "createdAt": "2026-09-08T14:20:00Z",
+    "paymentMethod": "card"
+  },
+  {
+    "id": "book-2",
+    "bookingRef": "ABK-2026-7831",
+    "attractionId": "itoku-market",
+    "attractionName": "Itoku Adire & Crafts Market",
+    "attractionImage": "https://images.unsplash.com/photo-1528459801416-a9e53bbf4e17?auto=format&fit=crop&w=600&q=80",
+    "visitDate": "2026-09-18",
+    "timeSlot": "02:30 PM",
+    "adultsCount": 1,
+    "childrenCount": 0,
+    "selectedAddons": [
+      "adire-workshop"
+    ],
+    "totalAmount": 4500,
+    "status": "confirmed",
+    "contactName": "Adeola Balogun",
+    "contactEmail": "adeola@tourist.ng",
+    "contactPhone": "+234 803 555 0192",
+    "createdAt": "2026-09-09T10:15:00Z",
+    "paymentMethod": "arrival"
+  }
+]

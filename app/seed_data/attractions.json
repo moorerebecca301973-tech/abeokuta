@@ -1,0 +1,637 @@
+[
+  {
+    "id": "olumo-rock",
+    "name": "Olumo Rock Tourist Complex",
+    "category": "History",
+    "tagline": "The Sacred Fortress of Ancient Egbaland",
+    "description": "Rising majestically 137 meters above sea level, Olumo Rock is the defining spiritual sanctuary of Abeokuta. Historically, this imposing inselberg served as a natural defensive fortress for the Egba people during the 19th-century Yoruba civil wars.",
+    "history": "In 1830, hunter Adagba discovered the caves beneath the mammoth granite rocks while scouting for a defensible haven. The name Abeokuta literally translates to \"Under the Rock\", honoring this sanctuary where the Egba nation rallied and thrived.",
+    "coordinates": {
+      "lat": 7.1555,
+      "lng": 3.3486
+    },
+    "address": "Ikija Street, Abeokuta North, Ogun State",
+    "neighborhood": "Ikija",
+    "openingHours": "08:30 AM – 06:00 PM Daily",
+    "entryFee": 1500,
+    "childEntryFee": 700,
+    "rating": 4.8,
+    "reviewCount": 428,
+    "image": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Summit viewpoint offering 360-degree panoramic vista across the red tin roofs of Abeokuta and Ogun River",
+      "Ancient carved rock apartments that sheltered warriors during historic sieges",
+      "Sacred shrine of the Orisa Igun and the miraculous 200-year-old medicinal Odan tree",
+      "Modern glass-elevator alongside traditional carved rock staircases"
+    ],
+    "tipsForVisitors": [
+      "Wear sturdy sneakers or hiking sandals with strong grip on smooth granite",
+      "Climb either early morning before 11 AM or at 4:30 PM for breathtaking sunset lighting",
+      "Carry a reusable water bottle; the top can get breezy and sunny"
+    ],
+    "availableTourTimes": [
+      "09:00 AM",
+      "11:30 AM",
+      "02:00 PM",
+      "04:30 PM"
+    ],
+    "contactPhone": "+234 803 452 9180",
+    "audioGuideDuration": "14 mins",
+    "audioGuideSummary": "Listen to historian Baale Alani recount the 1830 migration, sacred rock spirits, and survival secrets inside the natural cavern rooms.",
+    "estimatedDuration": "2 - 3 hours",
+    "accessibility": "Elevator available to intermediate terrace; summit reached via steps",
+    "featured": true
+  },
+  {
+    "id": "centenary-hall",
+    "name": "Ake Centenary Hall",
+    "category": "History",
+    "tagline": "Monument to One Hundred Years of Egba Settlement",
+    "description": "Commissioned in 1950 by Oba Ladapo Ademola II, the Centenary Hall is an architectural jewel celebrating the centenary of peaceful Egba residency in Abeokuta (1830–1930).",
+    "history": "Built with monumental stone masonry, arched colonnades, and stately Greek revival pillars, this hall has hosted historic parliamentary deliberations, civic assemblies, and royal state banquets for generations.",
+    "coordinates": {
+      "lat": 7.1519,
+      "lng": 3.3444
+    },
+    "address": "Opposite Ake Palace, Ake, Abeokuta South",
+    "neighborhood": "Ake",
+    "openingHours": "09:00 AM – 05:00 PM (Mon – Sat)",
+    "entryFee": 1000,
+    "childEntryFee": 500,
+    "rating": 4.6,
+    "reviewCount": 184,
+    "image": "https://images.unsplash.com/photo-1541888946425-d0fbb186c5f7?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1541888946425-d0fbb186c5f7?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1524368535928-5b5e00ddc76b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Neoclassical stone architecture with grand pediments and imperial crest",
+      "Memorial plaques honoring founding townships of Egbaland",
+      "Direct view across the grand ceremonial forecourt of the Alake’s Palace",
+      "Rich photography archives documenting early 20th century Yoruba governance"
+    ],
+    "tipsForVisitors": [
+      "Photography inside the main chamber is permitted with courteous lighting",
+      "Combine this visit with Ake Palace across the road for a seamless cultural morning",
+      "Ask the curator to show the original 1950 celebration rolls"
+    ],
+    "availableTourTimes": [
+      "10:00 AM",
+      "01:00 PM",
+      "03:30 PM"
+    ],
+    "contactPhone": "+234 802 881 2341",
+    "audioGuideDuration": "9 mins",
+    "audioGuideSummary": "Explore the architectural marvel commissioned during Oba Ademola II’s reign and the political story of the Egba United Government.",
+    "estimatedDuration": "1 - 1.5 hours",
+    "accessibility": "Wheelchair accessible ground entrance and exhibition gallery",
+    "featured": true
+  },
+  {
+    "id": "ake-palace",
+    "name": "Palace of the Alake of Egbaland",
+    "category": "History",
+    "tagline": "Royal Seat of the Paramount Ruler of Egbaland",
+    "description": "The ancestral palace of the Alake is the primary cultural heartbeat and sovereignty emblem of the Egba nation. It is steeped in ancient customs, sacred brass regalia, carved royal verandahs, and monumental courtyard spaces.",
+    "history": "The palace grounds have presided over the four divisions of Egbaland—Ake, Oke-Ona, Gbagura, and Owu. Inside lies the centuries-old royal museum housing thrones, talking drums, beadwork crowns, and colonial treaty correspondences.",
+    "coordinates": {
+      "lat": 7.1511,
+      "lng": 3.344
+    },
+    "address": "Palace Road, Ake, Abeokuta South",
+    "neighborhood": "Ake",
+    "openingHours": "10:00 AM – 04:00 PM (Closed during private traditional councils)",
+    "entryFee": 1200,
+    "childEntryFee": 600,
+    "rating": 4.7,
+    "reviewCount": 295,
+    "image": "https://images.unsplash.com/photo-1572953109213-3be62398eb95?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1572953109213-3be62398eb95?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Hand-carved wooden support pillars depicting historic Yoruba warrior commanders",
+      "Royal courtyard where traditional chieftaincy titles and royal festivals unfold",
+      "The Palace Antiquities Gallery with ceremonial crowns, beaded flywhisks, and staff of office",
+      "Historical archives detailing Queen Victoria’s gift of the Holy Bible to the Alake in 1848"
+    ],
+    "tipsForVisitors": [
+      "Dress respectfully with covered shoulders and knees out of deference to royal traditions",
+      "Always follow the palace protocol officer who guides your movement",
+      "Ask about the Lisabi festival dates if visiting in spring"
+    ],
+    "availableTourTimes": [
+      "10:30 AM",
+      "01:30 PM"
+    ],
+    "contactPhone": "+234 805 321 0098",
+    "audioGuideDuration": "16 mins",
+    "audioGuideSummary": "Learn about royal court protocol, the legacy of Lisabi Agbongbo Akala, and the symbolic meanings behind the Alake’s beaded regalia.",
+    "estimatedDuration": "1.5 - 2 hours",
+    "accessibility": "Courtyard is level; historic museum rooms have low doorstep thresholds",
+    "featured": true
+  },
+  {
+    "id": "itoku-market",
+    "name": "Itoku Adire & Crafts Market",
+    "category": "Markets",
+    "tagline": "The Global Epicenter of Authentic Indigo Adire",
+    "description": "Itoku is celebrated worldwide as the traditional cradle of Adire—Nigeria’s world-famous indigo resist-dyed textile. Wander through vibrant lanes teeming with authentic Adire Eleko (cassava paste resist) and Adire Oniko (tie and dye) fabrics.",
+    "history": "Centuries ago, women artisans in Abeokuta mastered the extraction of natural indigo (Elu) from wild indigo leaves. Today, Itoku remains the vibrant open-air marketplace where master dyers trade directly with international visitors and fashion designers.",
+    "coordinates": {
+      "lat": 7.1534,
+      "lng": 3.3475
+    },
+    "address": "Itoku Market Road, Abeokuta South",
+    "neighborhood": "Itoku",
+    "openingHours": "08:00 AM – 06:30 PM Daily",
+    "entryFee": 0,
+    "rating": 4.9,
+    "reviewCount": 512,
+    "image": "https://images.unsplash.com/photo-1528459801416-a9e53bbf4e17?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1528459801416-a9e53bbf4e17?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1509783236416-c9ad59bae472?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Hundreds of stalls showcasing authentic handmade Adire patterns with symbolic Yoruba meanings",
+      "Opportunities to meet generational master dyers and watch live folding and tying techniques",
+      "Traditional soap, local pottery, calabash carvings, and Yoruba herbs stalls",
+      "Direct-from-artisan pricing on pure cotton fabrics, kaftans, and contemporary accessories"
+    ],
+    "tipsForVisitors": [
+      "Polite bargaining is customary and welcomed with good humor",
+      "Cash and instant bank transfers are widely accepted by the traders",
+      "Ask the dyers to explain the cultural meaning of patterns like \"Oloba\", \"Koto\", or \"Sunbebe\""
+    ],
+    "availableTourTimes": [
+      "09:30 AM",
+      "12:00 PM",
+      "02:30 PM",
+      "04:30 PM"
+    ],
+    "contactPhone": "+234 814 550 7820",
+    "audioGuideDuration": "11 mins",
+    "audioGuideSummary": "Discover the ancient botanical secrets of Elu indigo leaf fermentation and the visual symbolism hidden inside traditional Adire patterns.",
+    "estimatedDuration": "2 - 3 hours",
+    "accessibility": "Bustling market stalls; paved walkways with some uneven curb steps",
+    "featured": true
+  },
+  {
+    "id": "oopl-complex",
+    "name": "Olusegun Obasanjo Presidential Library (OOPL)",
+    "category": "History",
+    "tagline": "First Presidential Archive & Eco-Culture Hub in Africa",
+    "description": "Spanning vast acres in Oke-Mosan, OOPL is the pioneering presidential museum and archive in Africa. It boasts a world-class historical museum, wildlife park, artificial lake, bamboo sanctuary, and cultural amusement center.",
+    "history": "Modeled after the United States Presidential Library system, OOPL houses millions of national declassified records, diplomatic memorabilia, and artifacts tracing modern African history, peacekeeping, and nation-building.",
+    "coordinates": {
+      "lat": 7.1352,
+      "lng": 3.3758
+    },
+    "address": "Presidential Boulevard, Oke-Mosan, Abeokuta",
+    "neighborhood": "Oke-Mosan",
+    "openingHours": "09:00 AM – 06:00 PM Daily",
+    "entryFee": 2500,
+    "childEntryFee": 1200,
+    "rating": 4.8,
+    "reviewCount": 640,
+    "image": "https://images.unsplash.com/photo-1582650625119-3a31f841836d?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1582650625119-3a31f841836d?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Interactive presidential exhibits, state gifts from global heads of state, and presidential motorcade",
+      "OOPL Wildlife Park featuring lions, hyenas, primates, and exotic birds",
+      "Artificial lake with paddle boat cruises and serene waterfront dining",
+      "3D cinema, bookshop, and lush bamboo forest walking meditation trail"
+    ],
+    "tipsForVisitors": [
+      "Purchase the combo ticket to enjoy both the Presidential Museum and the Wildlife Park",
+      "Golf carts are available to transport visitors comfortably across the sprawling campus",
+      "Enjoy dinner at the lakefront restaurant at sunset"
+    ],
+    "availableTourTimes": [
+      "10:00 AM",
+      "12:30 PM",
+      "03:00 PM"
+    ],
+    "contactPhone": "+234 817 992 0001",
+    "audioGuideDuration": "20 mins",
+    "audioGuideSummary": "Curated audio walkthrough of modern post-colonial Nigerian governance, military history, and presidential milestones.",
+    "estimatedDuration": "3 - 4 hours",
+    "accessibility": "Fully wheelchair accessible with ramps, elevators, and smooth paved walkways",
+    "featured": true
+  },
+  {
+    "id": "kemta-adire",
+    "name": "Kemta Traditional Adire Dyeing Pits",
+    "category": "Markets",
+    "tagline": "Living Heritage of Generations of Female Indigo Artisans",
+    "description": "Located a short distance from Itoku, Kemta is the active open-air workshop where the actual chemical alchemy of natural dyeing takes place. Witness huge earthen dyeing cauldrons billowing with the scent of aged indigo leaves and ash.",
+    "history": "Unlike industrial textile printing, Kemta preserves centuries-old organic resist techniques: cassava starch stenciling, raffia thread tying, and dipping into subterranean pits refined since the mid-19th century.",
+    "coordinates": {
+      "lat": 7.1528,
+      "lng": 3.3468
+    },
+    "address": "Kemta Quarter, Abeokuta South",
+    "neighborhood": "Kemta",
+    "openingHours": "08:30 AM – 05:00 PM (Mon – Sat)",
+    "entryFee": 500,
+    "childEntryFee": 0,
+    "rating": 4.7,
+    "reviewCount": 162,
+    "image": "https://images.unsplash.com/photo-1607344645866-009c320c5ab8?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1607344645866-009c320c5ab8?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1528459801416-a9e53bbf4e17?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Watch artisans mix natural indigo leaves, soda ash, and local well water in huge earthenware vats",
+      "Try your hands at the intricate raffia tying process that produces intricate geometric mandala patterns",
+      "Smell and feel the organic process before fabrics are sun-dried across communal clotheslines",
+      "Support generational women collectives directly without intermediary markups"
+    ],
+    "tipsForVisitors": [
+      "Wear dark clothes or an apron as natural indigo droplets may splash near the dipping pits",
+      "Book a 30-minute mini-dyeing workshop session through the app for the full hands-on fun",
+      "Ask the matriarch of the pit before filming close-up shots of proprietary stencils"
+    ],
+    "availableTourTimes": [
+      "10:00 AM",
+      "02:00 PM",
+      "04:00 PM"
+    ],
+    "contactPhone": "+234 809 112 3345",
+    "audioGuideDuration": "8 mins",
+    "audioGuideSummary": "An intimate conversation with Mama Olabisi, 3rd generation artisan, on the sacred prayers said over new indigo pits.",
+    "estimatedDuration": "1 - 2 hours",
+    "accessibility": "Ground level; ground may be damp near washing troughs"
+  },
+  {
+    "id": "st-peters-cathedral",
+    "name": "St. Peter's Cathedral, Ake",
+    "category": "History",
+    "tagline": "The First Church Building in Nigeria (1844)",
+    "description": "Founded by pioneer missionary Reverend Henry Townsend of the Church Missionary Society (CMS), St. Peter's Cathedral is celebrated as the earliest consecrated church building erected in Nigeria.",
+    "history": "Constructed during the dawn of modern literacy and printing in Nigeria (where \"Iwe Irohin\", Nigeria’s first newspaper, was subsequently published in Abeokuta in 1859). The cathedral retains its original missionary bell tower, stained glass, and historic cemetery.",
+    "coordinates": {
+      "lat": 7.1515,
+      "lng": 3.3452
+    },
+    "address": "Ake Cathedral Way, Ake, Abeokuta",
+    "neighborhood": "Ake",
+    "openingHours": "08:00 AM – 05:30 PM Daily",
+    "entryFee": 0,
+    "rating": 4.6,
+    "reviewCount": 138,
+    "image": "https://images.unsplash.com/photo-1548625361-19599292a5d9?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1548625361-19599292a5d9?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "1840s foundation stones laid during the early missionary era",
+      "The historic Townsend memorial bell and stained-glass sanctuary chancel",
+      "Memorial tombstones of pioneering Yoruba educators and clerics",
+      "Peaceful shaded courtyard with hundred-year-old mahogany trees"
+    ],
+    "tipsForVisitors": [
+      "Maintain quiet decorum inside the sanctuary during prayer hours",
+      "Ask the verger to show the historic baptism registry from the 1850s",
+      "Notice the distinctive red clay and stone masonry characteristic of ancient Ake"
+    ],
+    "availableTourTimes": [
+      "11:00 AM",
+      "02:30 PM"
+    ],
+    "contactPhone": "+234 803 711 9920",
+    "audioGuideDuration": "10 mins",
+    "audioGuideSummary": "The story of Henry Townsend, the translation of the Bible into Yoruba, and the birth of Nigerian print journalism in Abeokuta.",
+    "estimatedDuration": "45 mins - 1 hour",
+    "accessibility": "Wheelchair ramp available at northern side entrance"
+  },
+  {
+    "id": "kuto-cultural-centre",
+    "name": "Kuto Cultural Centre & Amphitheatre",
+    "category": "History",
+    "tagline": "Showcase of Ogun Performing Arts & Yoruba Drama",
+    "description": "An expansive cultural complex dedicated to indigenous Yoruba theater, Bata drumming, contemporary art exhibitions, and festival pageants in Abeokuta.",
+    "history": "Built as a premier arts hub in the 1980s, the centre has staged iconic performances by legendary Nigerian dramatists including Hubert Ogunde and Duro Ladipo.",
+    "coordinates": {
+      "lat": 7.1415,
+      "lng": 3.3512
+    },
+    "address": "Kuto Roundabout, Abeokuta South",
+    "neighborhood": "Kuto",
+    "openingHours": "09:00 AM – 07:00 PM (Performance schedules vary)",
+    "entryFee": 1000,
+    "childEntryFee": 500,
+    "rating": 4.5,
+    "reviewCount": 112,
+    "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Circular open-air amphitheater with superb natural acoustic reverberation",
+      "Traditional sculpture courtyard showcasing wood and bronze Yoruba totems",
+      "Live weekly Yoruba folklore dance and drumming rehearsals",
+      "Local artisan gift shop with handcrafted beaded jewelry and leather sandals"
+    ],
+    "tipsForVisitors": [
+      "Check the front desk board for weekend cultural evening performance times",
+      "Visit on Friday afternoons to catch live troupe rehearsals in traditional costumes",
+      "Great spot for meeting local creative artists and writers"
+    ],
+    "availableTourTimes": [
+      "11:00 AM",
+      "03:00 PM",
+      "05:30 PM"
+    ],
+    "contactPhone": "+234 802 334 1180",
+    "audioGuideDuration": "7 mins",
+    "audioGuideSummary": "An exploration of the rhythmic language of the talking drum (Gangan) and its role in Yoruba social drama.",
+    "estimatedDuration": "1.5 - 2 hours",
+    "accessibility": "Amphitheater stepped seating; ground courtyard fully flat"
+  },
+  {
+    "id": "oyan-dam",
+    "name": "Oyan Dam & Lake Eco-Reserve",
+    "category": "Nature",
+    "tagline": "Hydraulic Engineering Wonder & Tranquil Lake Escape",
+    "description": "A massive earth-fill dam and scenic reservoir located just outside northern Abeokuta. Surrounded by green rolling hills, it provides freshwater fisheries, boat outings, and tranquil bird-watching shores.",
+    "history": "Commissioned in 1983 across the Oyan River (a tributary of the Ogun River) to supply water and irrigation to the region, the dam has evolved into a beloved nature escape for weekend travelers seeking tranquility.",
+    "coordinates": {
+      "lat": 7.2625,
+      "lng": 3.251
+    },
+    "address": "Oyan Dam Access Road, Abeokuta North",
+    "neighborhood": "Abeokuta Outskirts",
+    "openingHours": "09:00 AM – 05:30 PM Daily",
+    "entryFee": 1500,
+    "childEntryFee": 800,
+    "rating": 4.7,
+    "reviewCount": 145,
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Spectacular spillway gates and sweeping panoramic views of the water reservoir",
+      "Guided leisure motorboat cruises along the lush shorelines",
+      "Freshwater grilled catfish prepared on-site with spicy pepper sauce",
+      "Ideal sunset photography spot with misty reflecting waters"
+    ],
+    "tipsForVisitors": [
+      "Life vests are provided and mandatory during boat rides",
+      "Combine with a picnic basket for a peaceful afternoon with friends or family",
+      "Best visited in the late afternoon for golden hour reflections"
+    ],
+    "availableTourTimes": [
+      "10:30 AM",
+      "01:30 PM",
+      "04:00 PM"
+    ],
+    "contactPhone": "+234 803 228 9012",
+    "audioGuideDuration": "9 mins",
+    "audioGuideSummary": "The environmental engineering history of the Ogun-Oshun river basin and its bird migration sanctuary.",
+    "estimatedDuration": "3 - 4 hours",
+    "accessibility": "Viewpoint deck accessible; shoreline docks have natural earthen slopes"
+  },
+  {
+    "id": "hilltop-garden",
+    "name": "Hilltop Botanical Sanctuary & Trails",
+    "category": "Nature",
+    "tagline": "Indigenous Medicinal Flora & Forest Canopy Walk",
+    "description": "A tranquil nature sanctuary nestled amid the undulating granite hills of Abeokuta. Preserving native Yoruba herbal plants, bamboo groves, and peaceful walking pathways.",
+    "history": "Established in cooperation with local botanists and conservationists to protect rare herbal species historically used by traditional Egba healers for holistic medicine.",
+    "coordinates": {
+      "lat": 7.1685,
+      "lng": 3.332
+    },
+    "address": "Hilltop View Road, Ibara Extension, Abeokuta",
+    "neighborhood": "Ibara Extension",
+    "openingHours": "08:00 AM – 06:00 PM Daily",
+    "entryFee": 1000,
+    "childEntryFee": 500,
+    "rating": 4.6,
+    "reviewCount": 94,
+    "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1511497584788-87676104235f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Curated medicinal herb garden with guided ethnobotanical explanations",
+      "Lush canopy nature trail leading to an elevated rocky lookout over the valley",
+      "Butterfly habitat and birdwatching hideout with over 60 native species",
+      "Wooden gazebos for reading, meditation, and yoga"
+    ],
+    "tipsForVisitors": [
+      "Wear walking shoes suitable for soft woodland dirt trails",
+      "Bring binoculars if you enjoy bird-watching",
+      "Pick up a small packet of organic lemongrass tea from the herb shop"
+    ],
+    "availableTourTimes": [
+      "09:00 AM",
+      "11:00 AM",
+      "03:30 PM"
+    ],
+    "contactPhone": "+234 818 440 2291",
+    "audioGuideDuration": "12 mins",
+    "audioGuideSummary": "An exploration of ancient Yoruba botanical wisdom: how Egba ancestors used the leaves of Odan and Ewe Akoko for health and coronation rites.",
+    "estimatedDuration": "2 hours",
+    "accessibility": "Lower garden paths are level; the hill trail has natural gentle incline"
+  },
+  {
+    "id": "park-inn-abeokuta",
+    "name": "Park Inn by Radisson Abeokuta",
+    "category": "Hotels",
+    "tagline": "Premium 4-Star Hospitality & Panoramic Hillside Views",
+    "description": "Situated in the upscale Ibara commercial district, Park Inn by Radisson offers world-class hotel hospitality with scenic views of Abeokuta’s famous rocky ridges, an expansive swimming pool, and fine dining.",
+    "history": "A cornerstone of modern Ogun State tourism infrastructure, serving international diplomats, business travelers, and heritage vacationers visiting Egbaland.",
+    "coordinates": {
+      "lat": 7.142,
+      "lng": 3.3512
+    },
+    "address": "1 Ibrahim Babangida Boulevard, Ibara, Abeokuta",
+    "neighborhood": "Ibara",
+    "openingHours": "24 Hours Front Desk",
+    "entryFee": 0,
+    "rating": 4.6,
+    "reviewCount": 318,
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Outdoor swimming pool with sun deck and poolside bar",
+      "RBG Bar & Grill featuring both Nigerian specialties and continental cuisine",
+      "Modern fitness health center and private sauna suites",
+      "Close proximity to Olumo Rock, Kuto Market, and Ogun Government Secretariat"
+    ],
+    "tipsForVisitors": [
+      "Reserve weekend stays in advance during state cultural festivals",
+      "Enjoy cocktails on the terrace for prime twilight views of Abeokuta hills",
+      "Complimentary secure parking with 24/7 security"
+    ],
+    "availableTourTimes": [
+      "10:00 AM",
+      "02:00 PM",
+      "06:00 PM"
+    ],
+    "contactPhone": "+234 815 099 2200",
+    "audioGuideDuration": "5 mins",
+    "audioGuideSummary": "A tour of hospitality amenities, architecture, and concierge tour connections across Abeokuta.",
+    "estimatedDuration": "Overnight stay",
+    "accessibility": "Full elevator access, step-free entrances, and accessible suites",
+    "featured": true
+  },
+  {
+    "id": "green-legacy-resort",
+    "name": "Green Legacy Resort & Suites",
+    "category": "Hotels",
+    "tagline": "Lakeside Luxury Resort inside the OOPL Presidential Grounds",
+    "description": "Set within the sprawling Obasanjo Presidential Library complex in Oke-Mosan, Green Legacy Resort boasts over 150 exquisitely appointed chalets, an artificial recreational lake, tennis courts, and peaceful gardens.",
+    "history": "Conceived as an integrated tourist resort that pairs political history and leisure with tranquil resort comfort overlooking lush Ogun greenery.",
+    "coordinates": {
+      "lat": 7.1365,
+      "lng": 3.3762
+    },
+    "address": "OOPL Complex, Presidential Boulevard, Oke-Mosan, Abeokuta",
+    "neighborhood": "Oke-Mosan",
+    "openingHours": "24 Hours Front Desk",
+    "entryFee": 0,
+    "rating": 4.7,
+    "reviewCount": 412,
+    "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Direct walking access to OOPL Wildlife Park, Bamboo trail, and 3D Cinema",
+      "Waterfront promenade with pedal boating and sunset pontoon dining",
+      "Olympic-sized swimming pool and floodlit tennis courts",
+      "Executive conference lounges and private VIP chalets"
+    ],
+    "tipsForVisitors": [
+      "Book a lakeview chalet for tranquil mornings overlooking the water",
+      "Rent an electric buggy to effortlessly tour the entire 30-hectare grounds"
+    ],
+    "availableTourTimes": [
+      "11:00 AM",
+      "03:00 PM"
+    ],
+    "contactPhone": "+234 807 889 0011",
+    "audioGuideDuration": "6 mins",
+    "audioGuideSummary": "Explore the vision behind the resort and eco-sanctuary within the presidential grounds.",
+    "estimatedDuration": "Overnight stay",
+    "accessibility": "Ramps to all reception areas, lakeside promenade, and dining pavilions"
+  },
+  {
+    "id": "surulere-amala-point",
+    "name": "Surulere Amala & Bukka Point",
+    "category": "Food",
+    "tagline": "Authentic Abeokuta Fluffy Amala, Gbegiri, & Ewedu",
+    "description": "Abeokuta is legendary for its distinctively fluffy, piping hot Amala (yam flour swallow). Surulere Amala Point is the cherished culinary institution where locals and tourists gather for savory Gbegiri, Ewedu, and tender goat meat.",
+    "history": "Generational cooks have perfected the art of wooden paddle whipping over firewood hearths, creating the signature airy texture that makes Abeokuta Amala celebrated throughout southwest Nigeria.",
+    "coordinates": {
+      "lat": 7.1478,
+      "lng": 3.3421
+    },
+    "address": "Isale-Igbein Road, Abeokuta South",
+    "neighborhood": "Isale-Igbein",
+    "openingHours": "08:30 AM – 07:00 PM Daily",
+    "entryFee": 0,
+    "rating": 4.8,
+    "reviewCount": 580,
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Freshly whipped hot Amala Lafun and Amala Dudu made continuously throughout the day",
+      "Tender Ogun goat meat (Ogufe), spiced tripe (Shaki), and fresh smoked catfish",
+      "Traditional combination of yellow bean Gbegiri and silky green Ewedu topped with spicy Obe Ata",
+      "Authentic local ambiance with communal wooden bench dining and iced herbal drinks"
+    ],
+    "tipsForVisitors": [
+      "Arrive before 1:00 PM for the freshest cuts of Ogufe goat meat",
+      "Order \"Abula\" to get the quintessential mixture of Gbegiri, Ewedu, and pepper stew",
+      "Wash your hands at the brass handwashing station and enjoy eating with fingers like a local"
+    ],
+    "availableTourTimes": [
+      "11:30 AM",
+      "01:30 PM",
+      "04:00 PM"
+    ],
+    "contactPhone": "+234 803 771 9901",
+    "audioGuideDuration": "7 mins",
+    "audioGuideSummary": "The heritage of Egba culinary traditions: why Abeokuta water and yam flour curing create Nigeria’s finest Amala.",
+    "estimatedDuration": "1 hour",
+    "accessibility": "Ground level dining hall with street level entrance",
+    "featured": true
+  },
+  {
+    "id": "iwe-irohin-suya",
+    "name": "Iwe Irohin Suya & Palm Wine Garden",
+    "category": "Food",
+    "tagline": "Evening Charcoal Suya, Roasted Boli, & Fresh Sweet Palm Wine",
+    "description": "Located at the iconic historic press grounds in Ibara, the Iwe Irohin evening garden comes alive at twilight with the fragrant aroma of seasoned skewered beef suya, roasted sweet plantains (Boli), and calabashes of sweet natural palm wine.",
+    "history": "Named after Nigeria’s first newspaper founded in Abeokuta in 1859, this lively courtyard has served as an intellectual meeting spot for journalists, artists, and music lovers for decades.",
+    "coordinates": {
+      "lat": 7.145,
+      "lng": 3.349
+    },
+    "address": "Iwe Irohin House, Ibara, Abeokuta",
+    "neighborhood": "Ibara",
+    "openingHours": "04:00 PM – 11:30 PM Daily",
+    "entryFee": 0,
+    "rating": 4.7,
+    "reviewCount": 390,
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=1200&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80"
+    ],
+    "highlights": [
+      "Master Suya chefs preparing thinly sliced tender beef and chicken spiced with Yaji pepper",
+      "Crispy roasted plantain (Boli) served with spicy pepper sauce and fried fish",
+      "Fresh, foaming palm wine tapped daily from local Abeokuta oil palm groves",
+      "Open-air evening seating with highlife music and friendly cultural banter"
+    ],
+    "tipsForVisitors": [
+      "Request your suya mild or spicy depending on your tolerance for ground Yaji pepper",
+      "Pair with chilled freshly tapped palm wine served in authentic calabash bowls",
+      "Peak lively hours are between 7:00 PM and 9:30 PM"
+    ],
+    "availableTourTimes": [
+      "05:00 PM",
+      "07:30 PM"
+    ],
+    "contactPhone": "+234 802 918 3321",
+    "audioGuideDuration": "6 mins",
+    "audioGuideSummary": "The evening cultural life of Abeokuta: storytelling, palm wine tapping, and the art of the northern-migrated Yaji spice blend.",
+    "estimatedDuration": "1.5 - 2 hours",
+    "accessibility": "Open courtyard with level seating"
+  }
+]

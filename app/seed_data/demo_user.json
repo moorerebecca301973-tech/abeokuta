@@ -1,0 +1,13 @@
+{
+  "id": "user-demo-1",
+  "name": "Adeola Balogun",
+  "email": "adeola@tourist.ng",
+  "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=300&q=80",
+  "origin": "Lagos, Nigeria",
+  "interests": [
+    "Historic Landmark",
+    "Markets & Crafts",
+    "Cultural & Heritage"
+  ],
+  "phone": "+234 803 555 0192"
+}

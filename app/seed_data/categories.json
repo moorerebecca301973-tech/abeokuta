@@ -1,0 +1,27 @@
+[
+  {
+    "slug": "history",
+    "name": "History",
+    "position": 0
+  },
+  {
+    "slug": "markets",
+    "name": "Markets",
+    "position": 1
+  },
+  {
+    "slug": "nature",
+    "name": "Nature",
+    "position": 2
+  },
+  {
+    "slug": "hotels",
+    "name": "Hotels",
+    "position": 3
+  },
+  {
+    "slug": "food",
+    "name": "Food",
+    "position": 4
+  }
+]

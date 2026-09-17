@@ -1,0 +1,32 @@
+[
+  {
+    "id": "rock-climber",
+    "title": "Summit Conqueror",
+    "description": "Scaled to the highest peak of sacred Olumo Rock overlooking the Ogun river.",
+    "icon": "Mountain",
+    "unlocked": true,
+    "unlockedDate": "2026-03-02"
+  },
+  {
+    "id": "indigo-apprentice",
+    "title": "Adire Master",
+    "description": "Visited the historic Itoku and Kemta indigo dye pits.",
+    "icon": "Sparkles",
+    "unlocked": true,
+    "unlockedDate": "2026-03-05"
+  },
+  {
+    "id": "royal-guest",
+    "title": "Egba Royal Envoy",
+    "description": "Explored the Alake Palace and historic Centenary Hall in Ake.",
+    "icon": "Crown",
+    "unlocked": false
+  },
+  {
+    "id": "archive-explorer",
+    "title": "Presidency Scholar",
+    "description": "Toured the collections and presidential exhibits at OOPL.",
+    "icon": "Library",
+    "unlocked": false
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "historian-guide",
+    "name": "Certified Egba Heritage Historian",
+    "price": 3000,
+    "description": "Personal native storyteller who shares ancient folklore, war secrets, and royal lineage tales."
+  },
+  {
+    "id": "adire-workshop",
+    "name": "Hands-on Adire Fabric Workshop",
+    "price": 4500,
+    "description": "Create your own traditional indigo-dyed cotton scarf to take home as an authentic souvenir."
+  },
+  {
+    "id": "photo-package",
+    "name": "Panoramic Photography Package",
+    "price": 3500,
+    "description": "High-resolution digital photos captured at landmark vantage points with traditional props."
+  },
+  {
+    "id": "cultural-refreshment",
+    "name": "Local Refreshment Pack",
+    "price": 1500,
+    "description": "Chilled freshly-tapped palm wine or zobo drink with roasted plantain (boli) and groundnuts."
+  }
+]
