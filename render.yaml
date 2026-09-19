@@ -1,0 +1,43 @@
+services:
+  - type: web
+    name: abeokuta-tourism-api
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    plan: starter            # the free plan cannot mount a disk; see README
+    region: frankfurt        # closest Render region to Nigeria
+    healthCheckPath: /api/v1/health
+    disk:
+      name: abeokuta-data
+      mountPath: /data
+      sizeGB: 1
+    envVars:
+      - key: ENVIRONMENT
+        value: production
+      - key: DATA_DIR
+        value: /data
+      - key: DATABASE_URL
+        # Four slashes means an absolute path. Three would write the database
+        # into the container's ephemeral filesystem instead of the disk.
+        value: sqlite:////data/abeokuta.db
+      - key: SECRET_KEY
+        generateValue: true
+      - key: ALGORITHM
+        value: HS256
+      - key: ACCESS_TOKEN_EXPIRE_MINUTES
+        value: "30"
+      - key: REFRESH_TOKEN_EXPIRE_DAYS
+        value: "7"
+      - key: CORS_ORIGINS
+        value: https://your-frontend.vercel.app,http://localhost:3000
+      - key: SEED_ON_STARTUP
+        value: "true"
+      - key: DOCS_ENABLED
+        value: "true"
+      - key: SQL_ECHO
+        value: "false"
+      # Set these in the Render dashboard, not here — seeds/promotes this
+      # account to admin on startup. Leave both unset to skip admin seeding.
+      - key: ADMIN_EMAIL
+        sync: false
+      - key: ADMIN_PASSWORD
+        sync: false
